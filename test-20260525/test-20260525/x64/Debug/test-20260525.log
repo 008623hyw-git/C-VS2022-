@@ -1,0 +1,4 @@
+﻿  test.c
+D:\作业\VS2022（C语言试验）\test-20260525\test-20260525\test.c(6,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\作业\VS2022（C语言试验）\test-20260525\test-20260525\test.c(7,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test-20260525.vcxproj -> D:\作业\VS2022（C语言试验）\test-20260525\x64\Debug\test-20260525.exe
